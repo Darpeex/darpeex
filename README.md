@@ -1,4 +1,4 @@
-![Header](./assets/Background.png)
+![Header](./assets/small-background.png)
 
 ## Я начинающий фронтенд разработчик
 
