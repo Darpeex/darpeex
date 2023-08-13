@@ -7,7 +7,7 @@
 ![CS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=097CDB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DAF6)
-[![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js&logoColor=green) -->
 
 <!--### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
