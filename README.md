@@ -12,8 +12,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Express.js](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=Express&logoColor=white)
 
+![MUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+![Taiga UI](https://img.shields.io/badge/-TaigaUI-526ED3?style=for-the-badge&logo=taigaui&logoColor=F0764F)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
 <!--### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/) 
 
-![Darpeex's GitHub stats](https://github-readme-stats.vercel.app/api?username=darpeex&theme=transparent&show_icons=true) -->
+![Darpeex's GitHub stats](https://github-readme-stats.vercel.app/api?username=darpeex&theme=transparent&show_icons=true) 
+Здесь иконки с инструментами - https://github.com/TawkirAlif/Markdown-Badges -->
